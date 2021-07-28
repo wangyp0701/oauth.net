@@ -2,4 +2,6 @@
 name: Lua
 client_libraries:
 - <a href="http://selz.co/1kxjJVl">Corona/Lua OAuth 2.0 API</a>
+openidc:
+- <a href="https://github.com/zmartzone/lua-resty-openidc">lua-resty-openidc OAuth 2.0 API</a>
 ...
